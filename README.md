@@ -1,3 +1,2 @@
 # forestAdventure
-A web project for MMP100
-work in progress
+A web project in progress for MMP100
