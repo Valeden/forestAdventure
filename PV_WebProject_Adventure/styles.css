@@ -1,2 +1,6 @@
-h1{color: #c4c23a;}
-body{background: #35844c;}
+h1{font-family: serif; font-size:45px; color: #c4c23a;}
+body{font-family: serif; background: #35844c;}
+p{font-family: serif; font-size: 30px;}
+a{font-family: serif; font-size: 10px; color: #c4c23a; text-decoration: none;}
+.option{font-size:30px;}
+.return{font-family: serif; font-size:45px; color: #c4c23a;}
